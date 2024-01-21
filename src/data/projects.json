@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/color.png",
+    "description": "This is a project where app baground color changes when you click on it.",
+    "skills": ["Js","React","Tailwind"],
+    "demo": "https://color-changer-rhmhfqz4j-shiv9568s-projects.vercel.app/",
+    "source": "https://github.com/shiv9568/Color-Changer"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/fun.png",
+    "description": "This is a project for fun only",
+    "skills": ["HTML","CSS","JAVA SCRIPT"],
+    "demo": "https://fun-project-sigma.vercel.app/",
+    "source": "https://github.com/shiv9568/fun-project-"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/login.png",
+    "description": "This is a project made to learn the backend a simple login system with backend design also work",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://log-system.vercel.app/",
+    "source": "https://github.com/shiv9568/log-system"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title":"Tailwind",
+    "imageSrc":"skills/tailwind.png"
+  },
+  {
+    "title":"Mui",
+    "imageSrc":"skills/mui.png"
+  },
+  {
+    "title":"C++",
+    "imageSrc":"skills/C++.png"
+  },
+  {
+    "title":"Python",
+    "imageSrc":"skills/Python.png"
+  }
+]
