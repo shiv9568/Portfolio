@@ -22,5 +22,13 @@
     "skills": ["React", "Express", "Node"],
     "demo": "https://log-system.vercel.app/",
     "source": "https://github.com/shiv9568/log-system"
+  },
+  {
+    "title": "Project D",
+    "imageSrc": "projects/clone.png",
+    "description": "This a leaning website where I make clone to learn react tailwind effectively",
+    "skills": ["React", "Tailwind", "Css"],
+    "demo": "https://clone-website-ten.vercel.app/",
+    "source": "https://github.com/shiv9568/Clone-Website"
   }
 ]
