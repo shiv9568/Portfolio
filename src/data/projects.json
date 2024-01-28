@@ -30,5 +30,13 @@
     "skills": ["React", "Tailwind", "Css"],
     "demo": "https://clone-website-ten.vercel.app/",
     "source": "https://github.com/shiv9568/Clone-Website"
+  },
+  {
+    "title": "Project E",
+    "imageSrc": "projects/Dice.png",
+    "description": "This a Fun website where I make a dice rolling game plz check out",
+    "skills": ["React", "Tailwind", "Css"],
+    "demo": "https://dice-rolling-tau.vercel.app//",
+    "source": "https://github.com/shiv9568/Dice-Rolling"
   }
 ]
